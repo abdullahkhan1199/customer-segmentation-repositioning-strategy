@@ -1,4 +1,4 @@
-# Customer Segmentation and Repositioning Strategy
+# infiniti-customer-segmentation
 
 ## Overview
 This project analyzes customer perceptions of the Infiniti G20 using PCA, regression, and segmentation techniques to recommend a repositioning strategy.
